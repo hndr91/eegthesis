@@ -21,6 +21,6 @@ f_Pre_Wega = eegStatArg(f_Pre_Wega);
 % Group All Data with labeling
 pre = [f_Pre_Adrian 1; f_Pre_Aji 1; f_Pre_Jodi 1; f_Pre_Mas_Fadil 1; f_Pre_Rizky 1; f_Pre_Supri 1; f_Pre_Wega 1];
 
-pos = [f_Pos_Adrian 1; f_Pos_Aji 1; f_Pos_Jodi 1; f_Pos_Mas_Fadil 1; f_Pos_Rizky 1; f_Pos_Supri 1; f_Pos_Wega 1];
+pos = [f_Pos_Adrian 2; f_Pos_Aji 2; f_Pos_Jodi 2; f_Pos_Mas_Fadil 2; f_Pos_Rizky 2; f_Pos_Supri 2; f_Pos_Wega 2];
 
 alldata = [pre;pos];
