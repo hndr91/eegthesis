@@ -1,19 +1,17 @@
-% eegPP() execution
 % Pre Condition
-pp_Pre_Adrian = eegPP(wband_Pre_Adrian, wraw_Pre_Adrian);
-pp_Pre_Aji = eegPP(wband_Pre_Aji, wraw_Pre_Aji);
-pp_Pre_Jodi = eegPP(wband_Pre_Jodi, wraw_Pre_Jodi);
-pp_Pre_Mas_Fadil = eegPP(wband_Pre_Mas_Fadil, wraw_Pre_Mas_Fadil);
-pp_Pre_Rizky = eegPP(wband_Pre_Rizky, wraw_Pre_Rizky);
-pp_Pre_Supri = eegPP(wband_Pre_Supri, wraw_Pre_Supri);
-pp_Pre_Wega = eegPP(wband_Pre_Wega, wraw_Pre_Wega);
-pp_Pre_Ima = eegPP(wband_Pre_Ima, wraw_Pre_Ima);
-% Pos Condition
-pp_Pos_Adrian = eegPP(wband_Pos_Adrian, wraw_Pos_Adrian);
-pp_Pos_Aji = eegPP(wband_Pos_Aji, wraw_Pos_Aji);
-pp_Pos_Jodi = eegPP(wband_Pos_Jodi, wraw_Pos_Jodi);
-pp_Pos_Mas_Fadil = eegPP(wband_Pos_Mas_Fadil, wraw_Pos_Mas_Fadil);
-pp_Pos_Rizky = eegPP(wband_Pos_Rizky, wraw_Pos_Rizky);
-pp_Pos_Supri = eegPP(wband_Pos_Supri, wraw_Pos_Supri);
-pp_Pos_Wega = eegPP(wband_Pos_Wega, wraw_Pos_Wega);
-pp_Pos_Ima = eegPP(wband_Pos_Ima, wraw_Pos_Ima);
+Pre_Adrian = eegPP2(bPre_Adrian, Pre_Adrian);
+Pre_Aji = eegPP2(bPre_Aji, Pre_Aji);
+Pre_Aris = eegPP2(bPre_Aris, Pre_Aris);
+Pre_Ima = eegPP2(bPre_Ima, Pre_Ima);
+Pre_Jodi = eegPP2(bPre_Jodi, Pre_Jodi);
+Pre_Sely = eegPP2(bPre_Sely, Pre_Sely);
+Pre_Wega = eegPP2(bPre_Wega, Pre_Wega);
+
+%Pos Condition
+Pos_Adrian = eegPP2(bPos_Adrian, Pos_Adrian);
+Pos_Aji = eegPP2(bPos_Aji, Pos_Aji);
+Pos_Aris = eegPP2(bPos_Aris, Pos_Aris);
+Pos_Ima = eegPP2(bPos_Ima, Pos_Ima);
+Pos_Jodi = eegPP2(bPos_Jodi, Pos_Jodi);
+Pos_Sely = eegPP2(bPos_Sely, Pos_Sely);
+Pos_Wega = eegPP2(bPos_Wega, Pos_Wega);

@@ -4,10 +4,10 @@ function output = eegSegments(segment_lenght, sampling, data)
   segment = dlenght / lseg;
   output = zeros(segment, lseg);
 
+  a = 1;
   for i=1:segment
-    a = 1;
-    output(i,:) = data(:,a:lseg);
-    a = a+lseg;
+    output(i,:) = data(:,a:(a+lseg)-1);
+    a = a + lseg;
   end
 
 end

@@ -1,0 +1,14 @@
+bPre_Adrian = Pre_Adrian;
+bPre_Aji = Pre_Aji;
+bPre_Aris = Pre_Aris;
+bPre_Ima = Pre_Ima;
+bPre_Jodi = Pre_Jodi;
+bPre_Sely = Pre_Sely;
+bPre_Wega = Pre_Wega;
+bPos_Adrian = Pos_Adrian;
+bPos_Aji = Pos_Aji;
+bPos_Aris = Pos_Aris;
+bPos_Ima = Pos_Ima;
+bPos_Jodi = Pos_Jodi;
+bPos_Sely = Pos_Sely;
+bPos_Wega = Pos_Wega;
