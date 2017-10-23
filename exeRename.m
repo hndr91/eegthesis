@@ -1,14 +1,25 @@
 bPre_Adrian = Pre_Adrian;
 bPre_Aji = Pre_Aji;
 bPre_Aris = Pre_Aris;
+bPre_Bella = Pre_Bella;
+bPre_Gafur = Pre_Gafur;
 bPre_Ima = Pre_Ima;
 bPre_Jodi = Pre_Jodi;
+bPre_Mas_Fadil = Pre_Mas_Fadil;
+bPre_Rizky = Pre_Rizky;
 bPre_Sely = Pre_Sely;
+bPre_Supri = Pre_Supri;
 bPre_Wega = Pre_Wega;
+
 bPos_Adrian = Pos_Adrian;
 bPos_Aji = Pos_Aji;
 bPos_Aris = Pos_Aris;
+bPos_Bella = Pos_Bella;
+bPos_Gafur = Pos_Gafur;
 bPos_Ima = Pos_Ima;
 bPos_Jodi = Pos_Jodi;
+bPos_Mas_Fadil = Pos_Mas_Fadil;
+bPos_Rizky = Pos_Rizky;
 bPos_Sely = Pos_Sely;
+bPos_Supri = Pos_Supri;
 bPos_Wega = Pos_Wega;

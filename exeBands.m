@@ -5,16 +5,26 @@ fs = 512;
 Pre_Adrian = eegbands(Pre_Adrian,fs);
 Pre_Aji = eegbands(Pre_Aji,fs);
 Pre_Aris = eegbands(Pre_Aris,fs);
+Pre_Bella = eegbands(Pre_Bella,fs);
+Pre_Gafur = eegbands(Pre_Gafur,fs);
+Pre_Mas_Fadil = eegbands(Pre_Mas_Fadil,fs);
+Pre_Rizky = eegbands(Pre_Rizky,fs);
 Pre_Ima = eegbands(Pre_Ima,fs);
 Pre_Jodi = eegbands(Pre_Jodi,fs);
 Pre_Sely = eegbands(Pre_Sely,fs);
+Pre_Supri = eegbands(Pre_Supri,fs);
 Pre_Wega = eegbands(Pre_Wega,fs);
 
-%Pos Condition
+% Pos Condition
 Pos_Adrian = eegbands(Pos_Adrian,fs);
 Pos_Aji = eegbands(Pos_Aji,fs);
 Pos_Aris = eegbands(Pos_Aris,fs);
+Pos_Bella = eegbands(Pos_Bella,fs);
+Pos_Gafur = eegbands(Pos_Gafur,fs);
+Pos_Mas_Fadil = eegbands(Pos_Mas_Fadil,fs);
+Pos_Rizky = eegbands(Pos_Rizky,fs);
 Pos_Ima = eegbands(Pos_Ima,fs);
 Pos_Jodi = eegbands(Pos_Jodi,fs);
 Pos_Sely = eegbands(Pos_Sely,fs);
+Pos_Supri = eegbands(Pos_Supri,fs);
 Pos_Wega = eegbands(Pos_Wega,fs);

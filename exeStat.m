@@ -1,19 +1,27 @@
-% extract statistical features
-
-% Post Condition
-f_Pos_Adrian = eegStat(band_Pos_Adrian);
-f_Pos_Aji = eegStat(band_Pos_Aji);
-f_Pos_Jodi = eegStat(band_Pos_Jodi);
-f_Pos_Mas_Fadil = eegStat(band_Pos_Mas_Fadil);
-f_Pos_Rizky = eegStat(band_Pos_Rizky);
-f_Pos_Supri = eegStat(band_Pos_Supri);
-f_Pos_Wega = eegStat(band_Pos_Wega);
-
 % Pre Condition
-f_Pre_Adrian = eegStat(band_Pre_Adrian);
-f_Pre_Aji = eegStat(band_Pre_Aji);
-f_Pre_Jodi = eegStat(band_Pre_Jodi);
-f_Pre_Mas_Fadil = eegStat(band_Pre_Mas_Fadil);
-f_Pre_Rizky = eegStat(band_Pre_Rizky);
-f_Pre_Supri = eegStat(band_Pre_Supri);
-f_Pre_Wega = eegStat(band_Pre_Wega);
+Pre_Adrian = eegStat(Pre_Adrian);
+Pre_Aji = eegStat(Pre_Aji);
+Pre_Aris = eegStat(Pre_Aris);
+Pre_Bella = eegStat(Pre_Bella);
+Pre_Gafur = eegStat(Pre_Gafur);
+Pre_Mas_Fadil = eegStat(Pre_Mas_Fadil);
+Pre_Rizky = eegStat(Pre_Rizky);
+Pre_Ima = eegStat(Pre_Ima);
+Pre_Jodi = eegStat(Pre_Jodi);
+Pre_Sely = eegStat(Pre_Sely);
+Pre_Supri = eegStat(Pre_Supri);
+Pre_Wega = eegStat(Pre_Wega);
+
+% Pos Condition
+Pos_Adrian = eegStat(Pos_Adrian);
+Pos_Aji = eegStat(Pos_Aji);
+Pos_Aris = eegStat(Pos_Aris);
+Pos_Bella = eegStat(Pos_Bella);
+Pos_Gafur = eegStat(Pos_Gafur);
+Pos_Mas_Fadil = eegStat(Pos_Mas_Fadil);
+Pos_Rizky = eegStat(Pos_Rizky);
+Pos_Ima = eegStat(Pos_Ima);
+Pos_Jodi = eegStat(Pos_Jodi);
+Pos_Sely = eegStat(Pos_Sely);
+Pos_Supri = eegStat(Pos_Supri);
+Pos_Wega = eegStat(Pos_Wega);

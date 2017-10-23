@@ -2,16 +2,26 @@
 Pre_Adrian = eegCutoff(Pre_Adrian);
 Pre_Aji = eegCutoff(Pre_Aji);
 Pre_Aris = eegCutoff(Pre_Aris);
+Pre_Bella = eegCutoff(Pre_Bella);
+Pre_Gafur = eegCutoff(Pre_Gafur);
+Pre_Mas_Fadil = eegCutoff(Pre_Mas_Fadil);
+Pre_Rizky = eegCutoff(Pre_Rizky);
 Pre_Ima = eegCutoff(Pre_Ima);
 Pre_Jodi = eegCutoff(Pre_Jodi);
 Pre_Sely = eegCutoff(Pre_Sely);
+Pre_Supri = eegCutoff(Pre_Supri);
 Pre_Wega = eegCutoff(Pre_Wega);
 
-%Pos Condition
+% Pos Condition
 Pos_Adrian = eegCutoff(Pos_Adrian);
 Pos_Aji = eegCutoff(Pos_Aji);
 Pos_Aris = eegCutoff(Pos_Aris);
+Pos_Bella = eegCutoff(Pos_Bella);
+Pos_Gafur = eegCutoff(Pos_Gafur);
+Pos_Mas_Fadil = eegCutoff(Pos_Mas_Fadil);
+Pos_Rizky = eegCutoff(Pos_Rizky);
 Pos_Ima = eegCutoff(Pos_Ima);
 Pos_Jodi = eegCutoff(Pos_Jodi);
 Pos_Sely = eegCutoff(Pos_Sely);
+Pos_Supri = eegCutoff(Pos_Supri);
 Pos_Wega = eegCutoff(Pos_Wega);
